@@ -11,5 +11,5 @@ void pointersOfPointers() {
 	printf("&b = %p, b = %p\n", &b, b);
 	printf("&c = %p, c = %p\n", &c, c);
 	printf("&d = %p, d = %p\n", &d, d);
-	printf("&e = %p, e = %p\n", &e, e);
+	printf("&e = %p, e = %p\n\n", &e, e);
 }

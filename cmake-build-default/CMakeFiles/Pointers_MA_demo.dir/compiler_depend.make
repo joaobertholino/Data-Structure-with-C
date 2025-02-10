@@ -6,6 +6,7 @@ CMakeFiles/Pointers_MA_demo.dir/main.c.o: /home/joaob/CLionProjects/Pointers-MA-
   /home/joaob/CLionProjects/Pointers-MA-demo/Aula-2/pointers.c \
   /home/joaob/CLionProjects/Pointers-MA-demo/Aula-3/sizeOfData.c \
   /home/joaob/CLionProjects/Pointers-MA-demo/Aula-4/pointersOfPointers.c \
+  /home/joaob/CLionProjects/Pointers-MA-demo/Aula-5/pointersOfPointersEx.c \
   /usr/include/features-time64.h \
   /usr/include/features.h \
   /usr/include/stdc-predef.h \
@@ -64,7 +65,9 @@ Pointers_MA_demo: /lib/x86_64-linux-gnu/libc.so.6 \
 
 /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h:
 
-/usr/include/x86_64-linux-gnu/bits/long-double.h:
+CMakeFiles/Pointers_MA_demo.dir/main.c.o:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
 
 /usr/lib/x86_64-linux-gnu/crti.o:
 
@@ -84,6 +87,8 @@ Pointers_MA_demo: /lib/x86_64-linux-gnu/libc.so.6 \
 
 /usr/include/x86_64-linux-gnu/bits/timesize.h:
 
+/home/joaob/CLionProjects/Pointers-MA-demo/Aula-5/pointersOfPointersEx.c:
+
 /home/joaob/CLionProjects/Pointers-MA-demo/Aula-3/sizeOfData.c:
 
 /home/joaob/CLionProjects/Pointers-MA-demo/Aula-2/pointers.c:
@@ -100,13 +105,11 @@ Pointers_MA_demo: /lib/x86_64-linux-gnu/libc.so.6 \
 
 /home/joaob/CLionProjects/Pointers-MA-demo/Aula-1/memoryAndAddress.c:
 
-/usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:
+/usr/include/x86_64-linux-gnu/bits/long-double.h:
 
 /usr/include/x86_64-linux-gnu/bits/typesizes.h:
 
-CMakeFiles/Pointers_MA_demo.dir/main.c.o:
-
-/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+/usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:
 
 /usr/include/features.h:
 
