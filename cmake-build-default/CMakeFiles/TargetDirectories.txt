@@ -1,3 +1,0 @@
-/home/joaob/CLionProjects/Pointers-MA-demo/cmake-build-default/CMakeFiles/Pointers_MA_demo.dir
-/home/joaob/CLionProjects/Pointers-MA-demo/cmake-build-default/CMakeFiles/edit_cache.dir
-/home/joaob/CLionProjects/Pointers-MA-demo/cmake-build-default/CMakeFiles/rebuild_cache.dir

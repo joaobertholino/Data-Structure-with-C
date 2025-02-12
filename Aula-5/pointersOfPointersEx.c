@@ -13,4 +13,12 @@ void pointerOfPointerEx() {
 	printf("&c = %p, c = %d\n", &c, **c);
 	printf("&d = %p, d = %d\n", &d, ***d);
 	printf("&e = %p, e = %d\n\n", &e, ****e);
+
+	****e = 20;
+
+	printf("&a = %p, a = %d\n", &a, a);
+	printf("&b = %p, b = %d\n", &b, *b);
+	printf("&c = %p, c = %d\n", &c, **c);
+	printf("&d = %p, d = %d\n", &d, ***d);
+	printf("&e = %p, e = %d\n\n", &e, ****e);
 }
