@@ -1,0 +1,4 @@
+/usr/bin/cmake -G "Unix Makefiles" -S /home/joaob/CLionProject/Data-Structure-with-C -B /home/joaob/CLionProject/Data-Structure-with-C/cmake-build-default
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/joaob/CLionProject/Data-Structure-with-C/cmake-build-default

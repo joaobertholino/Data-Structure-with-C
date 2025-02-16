@@ -8,6 +8,8 @@
 #include "./Aula-7/EndPointers.c"
 #include "./Aula-8/functions.c"
 #include "./Aula-9/funcex.c"
+#include "./Aula-10/vectors.c"
+#include "./Aula-11/pointer_arithmetic.c"
 
 #define EXECUTION_SUCCESS 0
 
@@ -84,7 +86,14 @@ int main(void) {
 	printf("'x' %d\n", x);
 	printf("'y' %d\n\n", y);
 
-	puts("scanf e ponteiros");
+	// puts("scanf e ponteiros");
 	// scan(x, y);
+
+	// puts("Vetores");
+	// vectors();
+	// vectorsScan();
+
+	puts("Pointer Arithmetic");
+	pointer_arithmetic();
 	return EXECUTION_SUCCESS;
 }
