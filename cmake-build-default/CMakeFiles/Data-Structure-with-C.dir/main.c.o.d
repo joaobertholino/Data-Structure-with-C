@@ -1,6 +1,8 @@
 CMakeFiles/Data-Structure-with-C.dir/main.c.o: \
  /home/joaob/CLionProject/Data-Structure-with-C/main.c \
- /usr/include/stdc-predef.h /usr/include/stdio.h \
+ /usr/include/stdc-predef.h \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/execute-intro.c \
+ /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -24,14 +26,41 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o: \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
- /home/joaob/CLionProject/Data-Structure-with-C/./Aula-1/memoryAndAddress.c \
- /home/joaob/CLionProject/Data-Structure-with-C/./Aula-2/pointers.c \
- /home/joaob/CLionProject/Data-Structure-with-C/./Aula-3/sizeOfData.c \
- /home/joaob/CLionProject/Data-Structure-with-C/./Aula-4/pointersOfPointers.c \
- /home/joaob/CLionProject/Data-Structure-with-C/./Aula-5/pointersOfPointersEx.c \
- /home/joaob/CLionProject/Data-Structure-with-C/./Aula-6/pointersOfPointersMoreEx.c \
- /home/joaob/CLionProject/Data-Structure-with-C/./Aula-7/EndPointers.c \
- /home/joaob/CLionProject/Data-Structure-with-C/./Aula-8/functions.c \
- /home/joaob/CLionProject/Data-Structure-with-C/./Aula-9/funcex.c \
- /home/joaob/CLionProject/Data-Structure-with-C/./Aula-10/vectors.c \
- /home/joaob/CLionProject/Data-Structure-with-C/./Aula-11/pointer_arithmetic.c
+ /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-1/memoryAndAddress.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-2/pointers.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-3/sizeOfData.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-4/pointersOfPointers.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-5/pointersOfPointersEx.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-6/pointersOfPointersMoreEx.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-7/EndPointers.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-8/functions.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-9/funcex.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-10/vectors.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-11/pointer_arithmetic.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Memory-Allocation/memory_allocation_execute.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Memory-Allocation/./Aula-1d/memory_allocation.c \
+ /usr/include/stdlib.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h \
+ /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-intn.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endianness.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
+ /usr/include/x86_64-linux-gnu/bits/select.h \
+ /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+ /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+ /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+ /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+ /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h

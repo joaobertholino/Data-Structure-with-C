@@ -13,5 +13,5 @@ void pointer_arithmetic() {
   // Somando a qtd de bytes do tipo declarado ao endereço de memoria do primeiro
   // elemento do vetor, resultando no endereço de memoria do elemento seguinte
   printf("%p\n", v + 1);
-  printf("%p\n", &v[1]);
+  printf("%p\n\n\n", &v[1]);
 }
