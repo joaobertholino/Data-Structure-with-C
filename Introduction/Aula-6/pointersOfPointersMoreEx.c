@@ -1,12 +1,10 @@
-#include <stdio.h>
-
 void more_pointers() {
-  float z = 2.5;
-  float *fp;
+	float z = 2.5;
+	float *fp;
 
-  fp = &z;
+	fp = &z;
 
-  printf("*&z = %f\n", *&z);
-  printf("*fp = %f\n", *fp);
-  printf("**&fp = %f\n\n", **&fp);
+	printf("*&z = %f\n", *&z);
+	printf("*fp = %f\n", *fp);
+	printf("**&fp = %f\n\n", **&fp);
 }

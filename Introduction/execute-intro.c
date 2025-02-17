@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include "./Aula-1/memoryAndAddress.c"
+#include "./Aula-10/vectors.c"
+#include "./Aula-11/pointer_arithmetic.c"
 #include "./Aula-2/pointers.c"
 #include "./Aula-3/sizeOfData.c"
 #include "./Aula-4/pointersOfPointers.c"
@@ -8,8 +10,6 @@
 #include "./Aula-7/EndPointers.c"
 #include "./Aula-8/functions.c"
 #include "./Aula-9/funcex.c"
-#include "./Aula-10/vectors.c"
-#include "./Aula-11/pointer_arithmetic.c"
 
 void init(void) {
 	puts("Memory Address examples");

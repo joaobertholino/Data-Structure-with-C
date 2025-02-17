@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 // Pointers have 8 bytes (64 bits)
 void pointer() {
 	int a = 10;

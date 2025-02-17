@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 void dataSize() {
 	printf("Types\n");
 

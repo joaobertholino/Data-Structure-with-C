@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 void end_pointers() {
 	int a;
 	int b;

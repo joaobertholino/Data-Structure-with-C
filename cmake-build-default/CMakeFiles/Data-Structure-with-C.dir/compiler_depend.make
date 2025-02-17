@@ -14,7 +14,8 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o: /home/joaob/CLionProject/Data-Str
   /home/joaob/CLionProject/Data-Structure-with-C/Introduction/Aula-8/functions.c \
   /home/joaob/CLionProject/Data-Structure-with-C/Introduction/Aula-9/funcex.c \
   /home/joaob/CLionProject/Data-Structure-with-C/Introduction/execute-intro.c \
-  /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-1d/memory_allocation.c \
+  /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-1/calloc.c \
+  /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-1/malloc.c \
   /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/memory_allocation_execute.c \
   /usr/include/alloca.h \
   /usr/include/endian.h \
@@ -116,19 +117,15 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o:
 
 /usr/include/x86_64-linux-gnu/bits/waitflags.h:
 
+/usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
+
 /usr/include/x86_64-linux-gnu/bits/floatn.h:
 
-/home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-1d/memory_allocation.c:
-
 /home/joaob/CLionProject/Data-Structure-with-C/Introduction/Aula-9/funcex.c:
-
-/usr/include/x86_64-linux-gnu/bits/typesizes.h:
 
 /usr/lib/x86_64-linux-gnu/libgcc_s.so.1:
 
 /usr/include/x86_64-linux-gnu/bits/endian.h:
-
-/usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
 
@@ -144,17 +141,33 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o:
 
 /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/memory_allocation_execute.c:
 
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
+
+/home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-1/malloc.c:
+
 /home/joaob/CLionProject/Data-Structure-with-C/main.c:
 
 /usr/include/x86_64-linux-gnu/bits/timesize.h:
 
 /home/joaob/CLionProject/Data-Structure-with-C/Introduction/execute-intro.c:
 
+/home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-1/calloc.c:
+
+/usr/lib/gcc/x86_64-linux-gnu/13/crtendS.o:
+
+/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
+
 /home/joaob/CLionProject/Data-Structure-with-C/Introduction/Aula-1/memoryAndAddress.c:
 
 /usr/include/x86_64-linux-gnu/bits/wordsize.h:
 
 /home/joaob/CLionProject/Data-Structure-with-C/Introduction/Aula-7/EndPointers.c:
+
+/usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h:
+
+/usr/include/x86_64-linux-gnu/bits/types.h:
+
+/home/joaob/CLionProject/Data-Structure-with-C/Introduction/Aula-11/pointer_arithmetic.c:
 
 /usr/include/x86_64-linux-gnu/bits/endianness.h:
 
@@ -190,19 +203,11 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o:
 
 /home/joaob/CLionProject/Data-Structure-with-C/Introduction/Aula-6/pointersOfPointersMoreEx.c:
 
+/usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
+
 /usr/include/x86_64-linux-gnu/bits/select.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/13/crtendS.o:
-
-/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
-
-/usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h:
-
-/home/joaob/CLionProject/Data-Structure-with-C/Introduction/Aula-11/pointer_arithmetic.c:
-
-/usr/include/x86_64-linux-gnu/bits/types.h:
 
 /usr/include/stdc-predef.h:
 
@@ -229,8 +234,6 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o:
 /lib/x86_64-linux-gnu/libc.so.6:
 
 /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
-
-/usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
 
 /usr/include/x86_64-linux-gnu/bits/byteswap.h:
 

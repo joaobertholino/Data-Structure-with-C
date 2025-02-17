@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 void memoryAddress() {
 	int a, b, c; // Declaring tree variable of int type
 	a = 10; // Attributing value to 'a'

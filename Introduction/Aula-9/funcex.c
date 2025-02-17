@@ -1,24 +1,22 @@
-#include <stdio.h>
-
 /**
  * Declarando o parametro do tipo ponteiro como const (constante), garantimos
  * que o valor contido no endereço de memoria que este ponteiro aponta não será
  * alterado.
  */
 void sun(int x, int y, const int *z) {
-  printf("'x' %d\n", x);
-  printf("'y' %d\n", y);
-  printf("'*z' %d\n", *z);
+	printf("'x' %d\n", x);
+	printf("'y' %d\n", y);
+	printf("'*z' %d\n", *z);
 
-  int sun = x + y + *z;
+	int sun = x + y + *z;
 
-  printf("'sun' %d\n\n", sun);
+	printf("'sun' %d\n\n", sun);
 }
 
 void replacement(int *x, int *y) {
-  int aux = *x;
-  *x = *y;
-  *y = aux;
+	int aux = *x;
+	*x = *y;
+	*y = aux;
 }
 
 /**
@@ -26,11 +24,11 @@ void replacement(int *x, int *y) {
  * argumento.
  */
 void scan(int x, int y) {
-  scanf("%d", &x);
-  scanf("%d", &y);
+	scanf("%d", &x);
+	scanf("%d", &y);
 
-  printf("'x' %d\n", x);
-  printf("'y' %d\n", y);
-  printf("'&x' %p\n", &x);
-  printf("'&y' %p\n", &y);
+	printf("'x' %d\n", x);
+	printf("'y' %d\n", y);
+	printf("'&x' %p\n", &x);
+	printf("'&y' %p\n", &y);
 }

@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 void pointersOfPointers() {
 	int a = 10;
 	int *b = &a;

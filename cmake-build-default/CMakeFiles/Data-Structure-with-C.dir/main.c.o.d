@@ -38,7 +38,6 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o: \
  /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-10/vectors.c \
  /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-11/pointer_arithmetic.c \
  /home/joaob/CLionProject/Data-Structure-with-C/./Memory-Allocation/memory_allocation_execute.c \
- /home/joaob/CLionProject/Data-Structure-with-C/./Memory-Allocation/./Aula-1d/memory_allocation.c \
  /usr/include/stdlib.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/sys/types.h \
@@ -63,4 +62,6 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o: \
  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Memory-Allocation/./Aula-1/malloc.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Memory-Allocation/./Aula-1/calloc.c
