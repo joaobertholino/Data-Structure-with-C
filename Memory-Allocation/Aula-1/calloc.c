@@ -10,5 +10,6 @@ void ex_calloc() {
 		printf("(v + %d) = %p | %d\n", i, v + i, *(v + i));
 	}
 
+	puts("");
 	free(v);
 }

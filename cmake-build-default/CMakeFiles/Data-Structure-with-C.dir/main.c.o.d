@@ -27,6 +27,8 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o: \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
  /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-1/memoryAndAddress.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-10/vectors.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-11/pointer_arithmetic.c \
  /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-2/pointers.c \
  /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-3/sizeOfData.c \
  /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-4/pointersOfPointers.c \
@@ -35,8 +37,6 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o: \
  /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-7/EndPointers.c \
  /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-8/functions.c \
  /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-9/funcex.c \
- /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-10/vectors.c \
- /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-11/pointer_arithmetic.c \
  /home/joaob/CLionProject/Data-Structure-with-C/./Memory-Allocation/memory_allocation_execute.c \
  /usr/include/stdlib.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
@@ -63,5 +63,8 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o: \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Memory-Allocation/./Aula-1/calloc.c \
  /home/joaob/CLionProject/Data-Structure-with-C/./Memory-Allocation/./Aula-1/malloc.c \
- /home/joaob/CLionProject/Data-Structure-with-C/./Memory-Allocation/./Aula-1/calloc.c
+ /home/joaob/CLionProject/Data-Structure-with-C/./Memory-Allocation/./Aula-2/static_vector.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Memory-Allocation/./Aula-2/../Aula-3/reef.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Memory-Allocation/./Aula-3/ex_leak_memory.c

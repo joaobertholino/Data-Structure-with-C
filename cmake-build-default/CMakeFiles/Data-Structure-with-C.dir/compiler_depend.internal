@@ -17,6 +17,9 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o
  /home/joaob/CLionProject/Data-Structure-with-C/Introduction/execute-intro.c
  /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-1/calloc.c
  /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-1/malloc.c
+ /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-3/reef.c
+ /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-2/static_vector.c
+ /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-3/ex_leak_memory.c
  /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/memory_allocation_execute.c
  /usr/include/alloca.h
  /usr/include/endian.h

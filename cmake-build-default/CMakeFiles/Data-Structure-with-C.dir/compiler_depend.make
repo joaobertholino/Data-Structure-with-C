@@ -16,6 +16,9 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o: /home/joaob/CLionProject/Data-Str
   /home/joaob/CLionProject/Data-Structure-with-C/Introduction/execute-intro.c \
   /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-1/calloc.c \
   /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-1/malloc.c \
+  /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-3/reef.c \
+  /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-2/static_vector.c \
+  /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-3/ex_leak_memory.c \
   /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/memory_allocation_execute.c \
   /usr/include/alloca.h \
   /usr/include/endian.h \
@@ -97,8 +100,6 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o:
 
 /usr/lib/gcc/x86_64-linux-gnu/13/crtbeginS.o:
 
-/usr/lib/x86_64-linux-gnu/libc.so:
-
 /usr/lib/x86_64-linux-gnu/crti.o:
 
 /usr/lib/x86_64-linux-gnu/Scrt1.o:
@@ -119,9 +120,7 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o:
 
 /usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
 
-/usr/include/x86_64-linux-gnu/bits/floatn.h:
-
-/home/joaob/CLionProject/Data-Structure-with-C/Introduction/Aula-9/funcex.c:
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
 
 /usr/lib/x86_64-linux-gnu/libgcc_s.so.1:
 
@@ -141,9 +140,11 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o:
 
 /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/memory_allocation_execute.c:
 
-/usr/include/x86_64-linux-gnu/bits/typesizes.h:
-
 /home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-1/malloc.c:
+
+/usr/lib/x86_64-linux-gnu/libc.so:
+
+/home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-3/ex_leak_memory.c:
 
 /home/joaob/CLionProject/Data-Structure-with-C/main.c:
 
@@ -169,12 +170,6 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o:
 
 /home/joaob/CLionProject/Data-Structure-with-C/Introduction/Aula-11/pointer_arithmetic.c:
 
-/usr/include/x86_64-linux-gnu/bits/endianness.h:
-
-/home/joaob/CLionProject/Data-Structure-with-C/Introduction/Aula-10/vectors.c:
-
-/usr/include/x86_64-linux-gnu/bits/floatn-common.h:
-
 /usr/include/stdio.h:
 
 /usr/include/alloca.h:
@@ -184,6 +179,8 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o:
 /usr/include/x86_64-linux-gnu/bits/time64.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:
+
+/home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-3/reef.c:
 
 /home/joaob/CLionProject/Data-Structure-with-C/Introduction/Aula-5/pointersOfPointersEx.c:
 
@@ -199,11 +196,29 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o:
 
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:
+/usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
+
+/usr/include/endian.h:
+
+/home/joaob/CLionProject/Data-Structure-with-C/Introduction/Aula-10/vectors.c:
+
+/usr/include/x86_64-linux-gnu/bits/endianness.h:
 
 /home/joaob/CLionProject/Data-Structure-with-C/Introduction/Aula-6/pointersOfPointersMoreEx.c:
 
+/usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:
+
+/home/joaob/CLionProject/Data-Structure-with-C/Introduction/Aula-9/funcex.c:
+
+/usr/include/x86_64-linux-gnu/bits/floatn.h:
+
+/usr/include/x86_64-linux-gnu/bits/floatn-common.h:
+
 /usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/time_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:
 
 /usr/include/x86_64-linux-gnu/bits/select.h:
 
@@ -217,13 +232,11 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o:
 
 /usr/include/x86_64-linux-gnu/bits/struct_mutex.h:
 
-/usr/include/endian.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
-
 /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h:
 
 /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h:
+
+/home/joaob/CLionProject/Data-Structure-with-C/Memory-Allocation/Aula-2/static_vector.c:
 
 /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
 
@@ -248,7 +261,3 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o:
 /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:
-
-/usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/time_t.h:
