@@ -1,8 +1,8 @@
 // Pointers have 8 bytes (64 bits)
 void pointer() {
 	int a = 10;
-	int *p1 = nullptr;
-	int *p2 = nullptr;
+	int* p1 = nullptr;
+	int* p2 = nullptr;
 
 	printf("&a = %p, a = %d\n", &a, a);
 	printf("&p1 = %p, p1 = %p\n", &p1, p1);

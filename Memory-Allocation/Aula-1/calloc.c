@@ -1,5 +1,5 @@
 void ex_calloc() {
-	int *v = calloc(5, sizeof(int));
+	int* v = calloc(5, sizeof(int));
 	v[0] = 10;
 	v[1] = 20;
 	v[2] = 30;

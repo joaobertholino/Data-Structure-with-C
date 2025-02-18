@@ -1,8 +1,8 @@
 void end_pointers() {
 	int a;
 	int b;
-	int *p1;
-	int *p2;
+	int* p1;
+	int* p2;
 
 	a = 4;
 	b = 3;

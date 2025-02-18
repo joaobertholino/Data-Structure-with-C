@@ -1,9 +1,9 @@
 void pointerOfPointerEx() {
 	int a = 10;
-	int *b = &a;
-	int **c = &b;
-	int ***d = &c;
-	int ****e = &d;
+	int* b = &a;
+	int** c = &b;
+	int*** d = &c;
+	int**** e = &d;
 
 	// Trushing pointers until you reach the simple variable 'A', whose value is 10.
 	printf("&a = %p, a = %d\n", &a, a);

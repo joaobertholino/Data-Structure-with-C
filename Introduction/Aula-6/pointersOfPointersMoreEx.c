@@ -1,6 +1,6 @@
 void more_pointers() {
 	float z = 2.5;
-	float *fp;
+	float* fp;
 
 	fp = &z;
 

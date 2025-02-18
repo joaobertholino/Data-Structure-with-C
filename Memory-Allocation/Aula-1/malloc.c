@@ -17,7 +17,7 @@
  * posição tem o tamanho de um float (4 bytes).
  */
 void ex_malloc() {
-	int *v = malloc(5 * sizeof(int));
+	int* v = malloc(5 * sizeof(int));
 	v[0] = 30;
 	v[1] = 40;
 	v[2] = 50;

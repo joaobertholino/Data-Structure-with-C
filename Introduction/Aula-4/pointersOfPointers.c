@@ -1,9 +1,9 @@
 void pointersOfPointers() {
 	int a = 10;
-	int *b = &a;
-	int **c = &b;
-	int ***d = &c;
-	int ****e = &d;
+	int* b = &a;
+	int** c = &b;
+	int*** d = &c;
+	int**** e = &d;
 
 	printf("&a = %p, a = %d\n", &a, a);
 	printf("&b = %p, b = %p\n", &b, b);

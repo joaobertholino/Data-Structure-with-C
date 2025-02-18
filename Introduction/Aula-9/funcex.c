@@ -3,7 +3,7 @@
  * que o valor contido no endereço de memoria que este ponteiro aponta não será
  * alterado.
  */
-void sun(int x, int y, const int *z) {
+void sun(int x, int y, const int* z) {
 	printf("'x' %d\n", x);
 	printf("'y' %d\n", y);
 	printf("'*z' %d\n", *z);
@@ -13,7 +13,7 @@ void sun(int x, int y, const int *z) {
 	printf("'sun' %d\n\n", sun);
 }
 
-void replacement(int *x, int *y) {
+void replacement(int* x, int* y) {
 	int aux = *x;
 	*x = *y;
 	*y = aux;

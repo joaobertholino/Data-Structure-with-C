@@ -1,12 +1,12 @@
 #include "../Aula-3/reef.c"
 
-void sum_vector_with_scalar(int *vs, int n, int scalar) {
+void sum_vector_with_scalar(int* vs, int n, int scalar) {
 	for (int i = 0; i < n; i++) {
 		*(vs + i) += scalar;
 	}
 }
 
-void print_vector(const int *v, int n) {
+void print_vector(const int* v, int n) {
 	for (int i = 0; i < n; i++) {
 		printf("&v[%d] = %p, v[%d] = %d\n", i, (v + i), i, *(v + i));
 	}
@@ -14,7 +14,7 @@ void print_vector(const int *v, int n) {
 }
 
 void with_calloc() {
-	int *vh = calloc(5, sizeof(int));
+	int* vh = calloc(5, sizeof(int));
 
 	for (int i = 0; i < 5; i++) {
 		*(vh + i) = i * 100;

@@ -19,7 +19,7 @@ int passage_through_values(int x, int y) {
  * função, do qual passa a ser possível alterar valores contidos no endereço de
  * memoria que o ponteiro aponta.
  */
-void passage_through_reference(int x, int y, int *z) {
+void passage_through_reference(int x, int y, int* z) {
 	*z = x + y;
 
 	puts("\nDENTRO DA FUNÇÃO");
@@ -29,7 +29,7 @@ void passage_through_reference(int x, int y, int *z) {
 	printf("'&z' %p\n\n", &z);
 }
 
-int sun_and_sub(int x, int y, int *z) {
+int sun_and_sub(int x, int y, int* z) {
 	*z = x - y;
 	return x + y;
 }
