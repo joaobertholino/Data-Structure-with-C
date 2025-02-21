@@ -15,7 +15,9 @@ double* vector_one(const int n) { return malloc(n * sizeof(double)); }
  * Recebe um ponteiro que aponta para um ponteiro do tipo double, aloca um espaço
  * de memoria de tamanho n * sizeof(double) e 'retorna' por meio da referencia recebida.
  */
-void vector_two(const int n, double** vptr) { *vptr = malloc(n * sizeof(double)); }
+void vector_two(const int n, double** vptr) {
+	*vptr = malloc(n * sizeof(double));
+}
 
 void use_vector_one() {
 	puts("RETORNO COMUM");
@@ -37,6 +39,7 @@ void use_vector_two() {
 		printf("%p | %f\n", v + i, *(v + i));
 	}
 	memory_free(&v);
+	puts("");
 }
 
 void exec_ex() {

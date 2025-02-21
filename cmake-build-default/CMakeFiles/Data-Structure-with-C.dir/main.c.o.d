@@ -1,8 +1,6 @@
 CMakeFiles/Data-Structure-with-C.dir/main.c.o: \
  /home/joaob/CLionProject/Data-Structure-with-C/main.c \
- /usr/include/stdc-predef.h \
- /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/execute-intro.c \
- /usr/include/stdio.h \
+ /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -26,6 +24,7 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o: \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/execute-intro.c \
  /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-1/memoryAndAddress.c \
  /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-10/vectors.c \
  /home/joaob/CLionProject/Data-Structure-with-C/./Introduction/./Aula-11/pointer_arithmetic.c \
@@ -67,4 +66,6 @@ CMakeFiles/Data-Structure-with-C.dir/main.c.o: \
  /home/joaob/CLionProject/Data-Structure-with-C/./Memory-Allocation/./Aula-1/malloc.c \
  /home/joaob/CLionProject/Data-Structure-with-C/./Memory-Allocation/./Aula-2/static_vector.c \
  /home/joaob/CLionProject/Data-Structure-with-C/./Memory-Allocation/./Aula-2/../Aula-3/reef.c \
- /home/joaob/CLionProject/Data-Structure-with-C/./Memory-Allocation/./Aula-3/ex_leak_memory.c
+ /home/joaob/CLionProject/Data-Structure-with-C/./Memory-Allocation/./Aula-3/ex_leak_memory.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Dynamic-Array/dynamic_array.c \
+ /home/joaob/CLionProject/Data-Structure-with-C/./Dynamic-Array/./Aula-1/static-array.c
