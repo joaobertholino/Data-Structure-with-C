@@ -1,4 +1,10 @@
-/usr/bin/cmake -G "Unix Makefiles" -S /home/joaob/CLionProject/Data-Structure-with-C -B /home/joaob/CLionProject/Data-Structure-with-C/cmake-build-default
--- Configuring done (0.0s)
+/snap/clion/322/bin/cmake/linux/x64/bin/cmake -DCMAKE_MAKE_PROGRAM=/snap/clion/322/bin/ninja/linux/x64/ninja -G Ninja -S /home/joaob/CLionProjects/Data-Structure-with-C -B /home/joaob/CLionProjects/Data-Structure-with-C/cmake-build-default
+-- The C compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (0.1s)
 -- Generating done (0.0s)
--- Build files have been written to: /home/joaob/CLionProject/Data-Structure-with-C/cmake-build-default
+-- Build files have been written to: /home/joaob/CLionProjects/Data-Structure-with-C/cmake-build-default

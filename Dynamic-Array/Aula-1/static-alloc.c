@@ -13,6 +13,6 @@ void representation() {
 	printf("&m == %p | m == %p | &m[0][0] == %p\n", &m, m, &m[0][0]);
 }
 
-void static_array() {
+void static_alloc() {
 	representation();
 }
