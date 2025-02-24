@@ -5,6 +5,6 @@ void dynamic_array_exec() {
 	puts("Introduction static arrays");
 	static_alloc();
 
-	puts("Introduction dynamics arrays");
+	puts("\nIntroduction for 2D and 3D arrays");
 	dynamic_alloc();
 }
