@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 
 #include "./Introduction/execute-intro.c"
 #include "./Memory-Allocation/memory_allocation_execute.c"
