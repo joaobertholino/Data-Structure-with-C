@@ -7,12 +7,12 @@
 
 #define EXIT_PROGRAM 0
 
-int main(void) {
+int main(int argc, char** argv) {
 	// Introdução
 	// init();
 
 	// Memory Allocation
-	init_MA();
-	dynamic_array_exec();
+	// init_MA();
+	dynamic_array_exec(argc, argv);
 	return EXIT_PROGRAM;
 }

@@ -25,12 +25,10 @@ void representation_dynamic_2D() {
 
 void freeMemoryMatriz3D(int*** m, int n_slices, int n_rows) {
 	for (int k = 0; k < n_slices; k++) {
-		// para cada linha
 		for (int i = 0; i < n_rows; i++) {
-			free(m[k][i]);
+			free(*(*(m + k) + i));
 		}
-
-		free(m[k]);
+		free(*(m + k));
 	}
 	free(m);
 	m = nullptr;
@@ -46,14 +44,13 @@ void representation_dynamic_3D() {
 	int*** m = calloc(n_slices, sizeof(int **));
 
 	for (int k = 0; k < n_slices; k++) {
-		m[k] = calloc(n_rows, sizeof(int *));
+		*(m + k) = calloc(n_rows, sizeof(int *));
 		for (int i = 0; i < n_rows; i++) {
-			m[k][i] = calloc(n_cols, sizeof(int));
+			*(*(m + k) + i) = calloc(n_cols, sizeof(int));
 		}
 	}
 
 	int count = 0;
-
 	printf("&m = %p, m = %p\n\n", &m, m);
 
 	for (int k = 0; k < n_slices; k++) {
@@ -71,7 +68,6 @@ void representation_dynamic_3D() {
 			}
 			puts("");
 		}
-		puts("");
 	}
 	freeMemoryMatriz3D(m, n_slices, n_rows);
 }
@@ -92,7 +88,7 @@ void other_exemple() {
 }
 
 void dynamic_alloc() {
-	// representation_dynamic_2D();
+	representation_dynamic_2D();
 	representation_dynamic_3D();
-	// other_exemple();
+	other_exemple();
 }
